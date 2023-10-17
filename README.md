@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dhanush N S
-- 👀 I’m interested in web development 
+- 👀 I’m interested in Full stack web development 
 - 🌱 I’m currently learning full stack web development 
 - 📫 How to reach me nsdhanush5@gmail.com 
 
